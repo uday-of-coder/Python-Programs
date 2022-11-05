@@ -1,2 +1,2 @@
-# sPython-Programs
+# Python-Programs
 Some basic python programs....
